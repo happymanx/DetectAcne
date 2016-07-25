@@ -1,3 +1,12 @@
+/**
+ Theme: Detect Acne
+ IDE: Xcode 7
+ Language: C++
+ Date: 105/07/24
+ Author: HappyMan
+ Blog: http://cg2010studio.wordpress.com/
+ */
+
 #include <cv.h>
 #include <highgui.h>
 
