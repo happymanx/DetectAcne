@@ -9,3 +9,7 @@ Implement proposal of paper: Automatic Acne Detection for Medical Treatment
 
 ### Process Image
 ![Process](https://github.com/happymanx/DetectAcne/blob/master/Demo/countAndLabel.gif)
+
+### Youtube Demo
+[Youtube Demo](https://www.youtube.com/watch?v=PzdQa97H-vg)
+
